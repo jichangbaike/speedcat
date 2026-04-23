@@ -125,6 +125,7 @@
 <img src="https://raw.githubusercontent.com/jichangbaike/speedcat/refs/heads/main/images/speedcat-test-202601.png" alt="闪电猫 speedboat下载测速和流媒体测试 ">
 
 > 测试时间：2026-02-01
+> 由于闪电猫封端，不能测试了，此测试图仅供参考。
 
 ## 平台支持与客户端下载指引
 
